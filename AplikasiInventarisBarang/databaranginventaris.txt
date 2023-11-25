@@ -1,0 +1,18 @@
+tanggal : 25
+Jenis Barang : pensil
+Jumlah : 10
+No Inventaris : 009
+Kondisi Barang : bagus
+Keterangan : masuk
+tanggal : 25
+Jenis Barang : pensil
+Jumlah : 10
+No Inventaris : 09
+Kondisi Barang : bagus
+Keterangan : masuk
+tanggal : 01
+Jenis Barang : buku
+Jumlah : 20
+No Inventaris : 008
+Kondisi Barang : rusak
+Keterangan : masuk
